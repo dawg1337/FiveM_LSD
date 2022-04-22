@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "She_Dont_love_me_no_more", "She_Dont_love_me_no_more\She_Dont_love_me_no_more.vcxproj", "{DB9C55DA-2445-45E0-A5D5-81CD0737C0E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9C55DA-2445-45E0-A5D5-81CD0737C0E4}.Debug|x64.ActiveCfg = Debug|x64
+		{DB9C55DA-2445-45E0-A5D5-81CD0737C0E4}.Debug|x64.Build.0 = Debug|x64
+		{DB9C55DA-2445-45E0-A5D5-81CD0737C0E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{DB9C55DA-2445-45E0-A5D5-81CD0737C0E4}.Debug|x86.Build.0 = Debug|Win32
+		{DB9C55DA-2445-45E0-A5D5-81CD0737C0E4}.Release|x64.ActiveCfg = Release|x64
+		{DB9C55DA-2445-45E0-A5D5-81CD0737C0E4}.Release|x64.Build.0 = Release|x64
+		{DB9C55DA-2445-45E0-A5D5-81CD0737C0E4}.Release|x86.ActiveCfg = Release|Win32
+		{DB9C55DA-2445-45E0-A5D5-81CD0737C0E4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63641EC9-9B7F-483E-873B-74AC87CF0E71}
+	EndGlobalSection
+EndGlobal
