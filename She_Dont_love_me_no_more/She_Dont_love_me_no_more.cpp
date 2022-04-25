@@ -22,6 +22,6 @@ int main() {
 	std::string token("Give me som ACID PLEASE"); //Parse your valid Rockstar ID and join the server.
 	char* tokens = _strdup(token.c_str());
 	WriteProcessMemory(Memory::hProc, (LPVOID)(Memory::modEntry.modBaseAddr + 0x02B11AD0), &tokens, sizeof(tokens), NULL);
-
+	CloseHandle(Memory::hProc);
 
 }
